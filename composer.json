@@ -1,0 +1,8 @@
+{
+    "name": "tastembekov/workchat-client",
+    "description": "Some chat client",
+    "require": {
+        "php": ">=5.4.0",
+	"yiisoft/yii2": "*"
+    }
+}
