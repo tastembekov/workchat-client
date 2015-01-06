@@ -4,6 +4,6 @@ namespace tastembekov\workchat;
 
 class WorkchatClient {
 
-	public $test = "test";
+	public static $test = "test";
 
 }
